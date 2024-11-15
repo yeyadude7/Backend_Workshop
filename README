@@ -1,1 +1,8 @@
 This repository consists of a short API demo for ACM's Backend Workshop
+
+To create, run:
+sudo apt-get install -y nodejs
+npm init --yes
+npm install express
+npm install nodemon
+npm install dotenv
